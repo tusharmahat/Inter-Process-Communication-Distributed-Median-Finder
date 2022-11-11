@@ -20,6 +20,6 @@ The parent process spawns K(5) identical child processes using fork() system cal
 ![Screenshot](instructions/Project1-9.png)
 
 #Project Report
-![Screenshot](Project1Report/page0001.png)
-![Screenshot](Project1Report/page0002.png)
-![Screenshot](Project1Report/page0003.png)
+![Screenshot](Project1Report/page0001.jpg)
+![Screenshot](Project1Report/page0002.jpg)
+![Screenshot](Project1Report/page0003.jpg)
